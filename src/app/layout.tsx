@@ -11,7 +11,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Smart Kitchen | Authentic Nigerian Soups",
+  title: "SureFoods | Authentic Nigerian Soups",
   description: "Order fresh Nigerian soups in liters via WhatsApp.",
 };
 
