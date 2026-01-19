@@ -4,7 +4,7 @@ import Hero from '@/components/Hero';
 import FloatingWhatsApp from '@/components/FloatingWhatsApp';
 import { SITE_CONFIG } from '@/lib/config';
 import { MapPin, Clock, Wallet, CheckCircle2 } from 'lucide-react';
-
+import { SpeedInsights } from "@vercel/speed-insights/next"
 export default function Home() {
   return (
     <main className="min-h-screen bg-white font-sans">
